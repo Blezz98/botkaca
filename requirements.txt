@@ -1,3 +1,3 @@
-https://github.com/noob-coder69/asyncio.zip
+https://github.com/noob-coder69/asyncio.zip/blob/main/asyncio.zip
 tgcrypto
 aria2p
